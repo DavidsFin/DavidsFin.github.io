@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume and Home Lab Showcase</title>
+    <link rel="stylesheet" href="style_dav.css">
+</head>
+<body>
+    <header>
+        <h1>Resume and Home Lab Showcase</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#certs">Certs</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#upload">Upload Resume</a></li>
+            <li><a href="#homelab">Home Lab</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="projects">
+        <h2>Projects</h2>
+        <!-- Content about projects -->
+    </section>
+    <section id="experience">
+        <h2>Experience</h2>
+        <!-- Content about experience -->
+    </section>
+    <section id="certs">
+        <h2>Certifications</h2>
+        <!-- Content about certifications -->
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <!-- Content about skills -->
+    </section>
+    <section id="upload">
+        <h2>Upload Your Resume</h2>
+        <p>Upload your resume to be reviewed by our team.</p>
+        <!-- Note: Actual upload functionality requires backend implementation -->
+        <input type="file" id="resumeUpload" name="resume">
+        <button type="submit">Upload</button>
+    </section>
+    <section id="homelab">
+        <h2>Home Lab Experience</h2>
+        <!-- Content about home lab experiences -->
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <!-- Contact form or information -->
+    </section>
+    <footer>
+        <p>&copy; 2024 Resume and Home Lab Showcase</p>
+    </footer>
+</body>
+</html>
